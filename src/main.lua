@@ -1,8 +1,3 @@
---[[
-  By: BIack1st, 
-  Time: Sun Jan 30 17:59:06 2022 ,
-  Description: ,
- ]]--
  --[[
   By: BIack1st & luisgamercooI231fan, 
   Time: Sun Jan 30 12:19:00 2022 ,
